@@ -1,1 +1,0 @@
-# Hero-Angular2
